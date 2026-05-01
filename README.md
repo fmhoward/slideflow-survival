@@ -91,7 +91,7 @@ dataset = (
 
 # Configure MIL survival model.
 config = mil_config(
-    model="attention_mil",
+    model="bistro.transformer",
     loss=CoxPHLoss,
     lr=5e-4,
     epochs=8
