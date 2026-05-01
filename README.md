@@ -122,7 +122,7 @@ predictions = predict_mil(
 The model output represents a relative recurrence risk score. Higher predicted risk scores indicate greater predicted risk of recurrence.
 
 ## Expected Dataset Format
-The project annotations should include survival time and event status columns.
+The project annotations should include survival time and event status columns. The Chicago dataset is included on <a href='https://zenodo.org/records/19956761'>Zenodo</a>.
 
 | Column | Description |
 |---|---|
