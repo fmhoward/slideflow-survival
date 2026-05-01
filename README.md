@@ -1,6 +1,4 @@
-# Slideflow-survival
 
-**Slideflow extension for direct recurrence prediction using survival models**
 <p align="center">
   <img src="overview.svg" alt="AI-Path training repository overview" width="100%">
 </p>
