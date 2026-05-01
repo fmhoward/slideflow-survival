@@ -4,7 +4,7 @@
 <p align="center">
   <img src="overview.svg" alt="AI-Path training repository overview" width="100%">
 </p>
-This repository extends Slideflow to support **direct recurrence prediction** via survival analysis using a custom Cox proportional hazards loss.
+This repository extends Slideflow to support **direct recurrence prediction** via survival analysis using a custom Cox proportional hazards loss for breast cancer survival model.
 
 ## Overview
 
